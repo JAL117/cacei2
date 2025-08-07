@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../cursos_content_service"
+		},
+		{
+			"path": "../../../user_service"
+		},
+		{
+			"path": "../../../intervenciones_service"
+		},
+		{
+			"path": "../../../RegistroMicroServicio"
+		},
+		{
+			"path": "../../../interMicroservicioAsistenciaCalificaciones"
+		},
+		{
+			"path": "../../../kairolink_app"
+		}
+	],
+	"settings": {}
+}
